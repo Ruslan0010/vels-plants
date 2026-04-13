@@ -1,0 +1,30 @@
+.switcher {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.lang {
+  background: none;
+  color: var(--color-text-muted);
+  font-size: 14px;
+  font-weight: 500;
+  padding: 4px 8px;
+  border-radius: 6px;
+  transition: all var(--transition-fast);
+  font-family: var(--font-body);
+}
+
+.lang:hover {
+  color: var(--color-text-primary);
+}
+
+.lang.active {
+  color: var(--color-accent);
+  background: rgba(200, 169, 110, 0.1);
+}
+
+.divider {
+  color: var(--color-text-muted);
+  font-size: 14px;
+}

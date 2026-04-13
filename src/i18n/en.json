@@ -1,0 +1,178 @@
+{
+  "nav": {
+    "about": "About",
+    "catalog": "Catalog",
+    "whyUs": "Why Us",
+    "reviews": "Reviews",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Bring Nature Home.",
+    "subtitle": "Curated houseplants & cacti, delivered in Halifax",
+    "cta": "Shop Now"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "We believe every home deserves a touch of green",
+    "text1": "Vels Industries was born from a simple passion — making homes greener, one plant at a time. Based in Halifax, Nova Scotia, we carefully curate a selection of the finest houseplants and cacti from trusted local growers.",
+    "text2": "Every plant in our collection is hand-picked and inspected to ensure it arrives at your door healthy, vibrant, and ready to thrive. Whether you're a seasoned plant parent or just starting your green journey, we're here to help.",
+    "stat1Label": "Happy Customers",
+    "stat1Value": "2,500+",
+    "stat2Label": "Plant Varieties",
+    "stat2Value": "150+",
+    "stat3Label": "Years in Halifax",
+    "stat3Value": "5+"
+  },
+  "products": {
+    "title": "Our Collection",
+    "subtitle": "Find the perfect green companion for your space",
+    "categories": {
+      "all": "All",
+      "cacti": "Cacti",
+      "succulents": "Succulents",
+      "tropical": "Tropical",
+      "flowering": "Flowering",
+      "accessories": "Pots & Accessories"
+    },
+    "items": [
+      {
+        "name": "Monstera Deliciosa",
+        "category": "tropical",
+        "price": "$45",
+        "tag": "Popular"
+      },
+      {
+        "name": "Echeveria Elegans",
+        "category": "succulents",
+        "price": "$18",
+        "tag": ""
+      },
+      {
+        "name": "San Pedro Cactus",
+        "category": "cacti",
+        "price": "$32",
+        "tag": "New"
+      },
+      {
+        "name": "Peace Lily",
+        "category": "flowering",
+        "price": "$28",
+        "tag": ""
+      },
+      {
+        "name": "Fiddle Leaf Fig",
+        "category": "tropical",
+        "price": "$55",
+        "tag": "Bestseller"
+      },
+      {
+        "name": "Ceramic Planter Set",
+        "category": "accessories",
+        "price": "$35",
+        "tag": ""
+      },
+      {
+        "name": "Golden Barrel Cactus",
+        "category": "cacti",
+        "price": "$22",
+        "tag": ""
+      },
+      {
+        "name": "Orchid Phalaenopsis",
+        "category": "flowering",
+        "price": "$40",
+        "tag": "Popular"
+      }
+    ]
+  },
+  "whyUs": {
+    "title": "Why Choose Us",
+    "subtitle": "We care about your plants as much as you do",
+    "items": [
+      {
+        "title": "Careful Packaging",
+        "description": "Every plant is securely wrapped with custom packaging to ensure safe delivery, even in winter."
+      },
+      {
+        "title": "Health Guarantee",
+        "description": "All our plants come with a 30-day health guarantee. If it doesn't thrive, we'll replace it."
+      },
+      {
+        "title": "Expert Advice",
+        "description": "Our team of plant specialists provides personalized care tips with every purchase."
+      },
+      {
+        "title": "Halifax Delivery",
+        "description": "Fast, reliable delivery across Halifax and surrounding areas. Same-day available."
+      }
+    ]
+  },
+  "reviews": {
+    "title": "What Our Customers Say",
+    "subtitle": "Real stories from plant lovers in Halifax",
+    "items": [
+      {
+        "name": "Sarah M.",
+        "text": "My Monstera arrived in perfect condition! The packaging was incredible. Already ordered two more plants.",
+        "rating": 5
+      },
+      {
+        "name": "James T.",
+        "text": "Best plant shop in Halifax, hands down. Their care guides are super helpful for a beginner like me.",
+        "rating": 5
+      },
+      {
+        "name": "Emily R.",
+        "text": "I've ordered from many online plant shops, but Vels is on another level. Quality plants and amazing service.",
+        "rating": 5
+      },
+      {
+        "name": "Michael K.",
+        "text": "The cactus collection is fantastic. Great variety and fair prices. My home office looks amazing now.",
+        "rating": 4
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know",
+    "items": [
+      {
+        "question": "Do you deliver outside Halifax?",
+        "answer": "Currently, we deliver within Halifax Regional Municipality. We're planning to expand to other Nova Scotia cities soon."
+      },
+      {
+        "question": "How do I care for my new plant?",
+        "answer": "Every plant comes with a detailed care card. You can also reach out to our team anytime for personalized advice on watering, light, and repotting."
+      },
+      {
+        "question": "What if my plant arrives damaged?",
+        "answer": "We offer a 30-day health guarantee. If your plant arrives damaged or doesn't thrive within 30 days, contact us for a free replacement."
+      },
+      {
+        "question": "Do you ship plants in winter?",
+        "answer": "Yes! We use insulated packaging and heat packs during colder months to ensure your plants stay warm and healthy during transit."
+      },
+      {
+        "question": "Can I visit your store?",
+        "answer": "We operate primarily online, but we host plant pop-up events in Halifax throughout the year. Follow us on social media for announcements."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have a question or special request? We'd love to hear from you",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "Your email",
+    "messagePlaceholder": "Your message",
+    "send": "Send Message"
+  },
+  "footer": {
+    "description": "Curated houseplants & cacti delivered to your door in Halifax, Nova Scotia.",
+    "navigation": "Navigation",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved.",
+    "address": "Halifax, Nova Scotia, Canada"
+  }
+}
